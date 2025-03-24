@@ -1,5 +1,5 @@
-# OD3R Project Page
-This is the repository that contains source code for the [OD3R project page](https://eth-ait.github.io/OD3R). Source code of our project will be made available soon under this repository.
+# ODHSR Project Page
+This is the repository that contains source code for the [ODHSR project page](https://eth-ait.github.io/ODHSR). Source code of our project will be made available soon under this repository.
 
 # Acknowledgement
 This webpage is built with the template from [NeRFies](https://github.com/nerfies/nerfies.github.io). We sincerely thank <a href="https://keunhong.com/">Keunhong Park</a> for developing and open-sourcing this template.
